@@ -12,27 +12,28 @@
 
 <img width="1042" height="745" alt="image" src="https://github.com/user-attachments/assets/1f24d008-eca1-4177-82be-9c2275c81303" />
 
-Data Science helps in making better and faster decisions.  
-It is used to predict future trends and outcomes.  
-Businesses use it to understand customers and improve services.  
-It helps in healthcare for disease prediction and treatment.  
-Data Science is also used in finance, marketing, and technology.
+- Data Science enables faster and more accurate decision-making.  
+- It is used to predict future trends and outcomes.  
+- Businesses leverage it to understand customer behavior and improve services.  
+- In healthcare, it aids in disease prediction and treatment planning.  
+- It is widely used in finance, marketing, and technology sectors.  
 
 # Facets of Data
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/87abda75-3d9b-4bfb-b6c8-f7d8665c9723" />
 
-Data can be structured (organized like tables) or unstructured (like text or images).  
-It can be qualitative (descriptive) or quantitative (numerical).  
-Data may be primary (collected first-hand) or secondary (collected from other sources).  
-It can be static (unchanging) or dynamic (constantly updating).  
-Understanding these facets helps in better data analysis and usage.
+- Data can be structured (organized in tables) or unstructured (such as text, images, or videos).  
+- It can be qualitative (descriptive) or quantitative (numerical).  
+- Data may be primary (collected first-hand) or secondary (gathered from existing sources).  
+- It can be static (unchanging) or dynamic (continuously updating).  
+- Understanding these types helps improve data analysis and effective usage.  
 
 
 
 
 # Data Science Process
 
-Data Science is a systematic approach to solving data-driven problems. It involves the collection, analysis, interpretation, presentation, and communication of data. The Data Science process provides a structured framework for completing projects in both business and research contexts.
+- Data Science is a systematic approach to solving data-driven problems. It involves the collection, analysis, interpretation, presentation, and communication of data. The Data Science process provides a structured framework for
+- completing projects in both business and research contexts.
 
 ---
 
