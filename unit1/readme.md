@@ -2,11 +2,11 @@
 
 # Introduction to Data Science
 
-Data Science is the process of collecting and analyzing data.  
-It helps us find patterns and useful information.  
-We use tools like Python and Excel to work with data.  
-Data Science helps in making better decisions.  
-It is widely used in business, healthcare, and technology.
+- Data Science is the process of collecting and analyzing data.  
+ It helps us find patterns and useful information.  
+ We use tools like Python and Excel to work with data.  
+ Data Science helps in making better decisions.  
+ It is widely used in business, healthcare, and technology.
 
 # Benefits and Uses of Data Science
 
