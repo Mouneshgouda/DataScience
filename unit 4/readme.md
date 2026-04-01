@@ -118,41 +118,35 @@ conn.close()
 ## 5. Case Study: Classifying Reddit Posts
 
 ### Objective
-
-To classify Reddit posts into different categories based on their textual content.
+The goal of this case study is to classify Reddit posts into different categories based on their textual content.
 
 ### Steps Involved
 
-Data Collection  
-Collect Reddit posts using APIs or publicly available datasets.  
+1. **Data Collection**  
+   - Collect Reddit posts using APIs or publicly available datasets.
 
-Data Preprocessing  
-Convert text to lowercase  
-Remove punctuation and stopwords  
-Perform tokenization  
+2. **Data Preprocessing**  
+   - Convert text to lowercase.  
+   - Remove punctuation and stopwords.  
+   - Perform tokenization to split text into words or sentences.
 
-Feature Extraction  
-Convert text into numerical representations:  
-Bag of Words  
-TF-IDF (Term Frequency - Inverse Document Frequency)  
+3. **Feature Extraction**  
+   - Convert text into numerical representations suitable for machine learning:  
+     - Bag of Words  
+     - TF-IDF (Term Frequency - Inverse Document Frequency)
 
-Model Building  
-Apply classification algorithms such as:  
-Naive Bayes  
-Logistic Regression  
-Support Vector Machines (SVM)  
+4. **Model Building**  
+   - Apply classification algorithms to categorize posts:  
+     - Naive Bayes  
+     - Logistic Regression  
+     - Support Vector Machines (SVM)
 
-Model Evaluation  
-Evaluate model performance using:  
-Accuracy  
-Precision  
-Recall  
-F1-score  
+5. **Model Evaluation**  
+   - Assess the performance of the classification model using:  
+     - Accuracy  
+     - Precision  
+     - Recall  
+     - F1-score
 
-Data Storage  
-Store processed data and results using SQLite.  
-
-
-
-
-
+6. **Data Storage**  
+   - Store processed data and classification results using SQLite for easy retrieval and analysis.
