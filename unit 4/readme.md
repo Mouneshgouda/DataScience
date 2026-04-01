@@ -1,10 +1,13 @@
 # Tools and Applications of Data Science
 
 ## 1. Introducing Neo4j for Dealing with Graph Databases
+<img width="834" height="313" alt="image" src="https://github.com/user-attachments/assets/1cd564f1-eab8-41aa-bf57-d4bdedf52fdf" />
+
 
 Graph databases are used to store and manage data in the form of graphs, where the focus is on relationships between data rather than tables.
 
 Neo4j is a popular graph database management system used for handling highly connected data.
+<img width="860" height="1435" alt="image" src="https://github.com/user-attachments/assets/76d0b974-678a-4ab2-b1ba-fa39bee9f163" />
 
 In a graph database:
 
@@ -17,6 +20,9 @@ Neo4j allows efficient traversal of relationships and is suitable for applicatio
 ---
 
 ## 2. Graph Query Language: Cypher
+
+<img width="820" height="1080" alt="image" src="https://github.com/user-attachments/assets/8913b4dc-55b0-40c1-b18e-ed14f9657497" />
+
 
 Cypher is the query language used in Neo4j to interact with graph databases.
 
@@ -44,6 +50,9 @@ RETURN a, b
 
 ## 3. Applications of Graph Databases
 
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/c04458ae-a93b-4643-80e5-53cf3973cc5a" />
+
+
 Graph databases are widely used in scenarios where relationships between data are important.
 
 ### Common Applications
@@ -66,6 +75,8 @@ Analyze connectivity, influence, and centrality in networks.
 ---
 
 ## 4. Text Mining and Analytics
+<img width="862" height="508" alt="image" src="https://github.com/user-attachments/assets/c026fcd0-e9f8-4736-b436-ce0d8bf55b09" />
+
 
 Text mining involves extracting useful information from textual data using computational techniques.
 
@@ -116,6 +127,10 @@ conn.close()
 ```
 
 ## 5. Case Study: Classifying Reddit Posts
+https://medium.com/data-science/reddit-post-classification-b70258d6affe
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/0efb93e3-31e5-4ba6-9dcd-4cb341ac4046" />
+
 
 ### Objective
 The goal of this case study is to classify Reddit posts into different categories based on their textual content.
