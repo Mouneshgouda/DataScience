@@ -1,4 +1,4 @@
-# ♻️ Waste Classification using YOLOv8 .
+# ♻️ Waste Classification using YOLOv8 ..
 
 This project is a **Streamlit web application** that uses a **YOLOv8 model** to detect and classify waste from images or webcam input.
 
